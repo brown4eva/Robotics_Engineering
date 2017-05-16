@@ -28,6 +28,7 @@ These instructions below will get you a copy of the project and the necessary do
 
 *Vidoes:
 1.Pincher Test on PhantomX Robot Arm : https://www.youtube.com/watch?v=z6gMaZt2cHk
+
 2.PhantomX  Pincher Robot Control Using Arbotix_gui. : https://www.youtube.com/watch?v=U1I5eNihs9w
 
 ### Source Code: nav_test.py
