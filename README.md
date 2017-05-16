@@ -10,6 +10,7 @@ These instructions below will get you a copy of the project and the necessary do
 *TurtleBot2
 
 1.Read the Technical Report on our repository and also we wiill advised you to read  ROS by example vol.1 &vol.2 for reference
+
 2.After undergoing the above step you must be able to achieve these results or even  do a better one. We trust you could. 
 
 *Videos:
@@ -27,6 +28,7 @@ These instructions below will get you a copy of the project and the necessary do
 *PhantomX Robot Arm
 
 1.Read Technical Survey Report on our reposoritory.
+
 2.After undergoing the above step you must be able to achieve these results or even  do a better one. We trust you could. 
 
 *Vidoes:
