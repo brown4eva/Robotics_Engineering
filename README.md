@@ -25,7 +25,7 @@ These instructions below will get you a copy of the project and the necessary do
  
  5.Navigation using  RViz Tools: https://www.youtube.com/watch?v=IE1HGP_NTLA 
 
-###PhantomX Robot Arm
+#PhantomX Robot Arm
 
 1.Read Technical Survey Report on our reposoritory.
 
