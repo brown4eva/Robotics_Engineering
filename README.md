@@ -5,7 +5,7 @@ This is our final project for our course module Robotics Engineering. We study o
 
 These instructions below will get you a copy of the project and the necessary documents needed for you to implement our project. 
 
-## Instructions.
+**Instructions.**
 
 ## TurtleBot2
 
