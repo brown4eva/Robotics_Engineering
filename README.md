@@ -7,13 +7,13 @@ These instructions below will get you a copy of the project and the necessary do
 
 ## Instructions.
 
-*TurtleBot2
+###TurtleBot2
 
 1.Read the Technical Report on our repository and also we wiill advised you to read  ROS by example vol.1 &vol.2 for reference
 
 2.After undergoing the above step you must be able to achieve these results or even  do a better one. We trust you could. 
 
-*Videos:
+###Videos:
 
  1.Basic Motion Control(Twist) : https://www.youtube.com/watch?v=aXN8vrgKaVU
  
@@ -25,13 +25,13 @@ These instructions below will get you a copy of the project and the necessary do
  
  5.Navigation using  RViz Tools: https://www.youtube.com/watch?v=IE1HGP_NTLA 
 
-*PhantomX Robot Arm
+###PhantomX Robot Arm
 
 1.Read Technical Survey Report on our reposoritory.
 
 2.After undergoing the above step you must be able to achieve these results or even  do a better one. We trust you could. 
 
-*Vidoes:
+#####Vidoes:
 1.Pincher Test on PhantomX Robot Arm : https://www.youtube.com/watch?v=z6gMaZt2cHk
 
 2.PhantomX  Pincher Robot Control Using Arbotix_gui. : https://www.youtube.com/watch?v=U1I5eNihs9w
