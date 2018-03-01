@@ -1,5 +1,5 @@
 # Robotics_Engineering
-This is our final project for our course module Robotics Engineering. We study on the turtlebot2 and the PhantomX Pincher Robot Arm.
+This is our final project for our course module Robotics Engineering. Localization and Mapping  on the turtlebot2 and the PhantomX Pincher Robot Arm.
 
 ## Things to Note
 
